@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de6e4a4d0d4d7d25e23a77197cfc3ce017f9f139")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

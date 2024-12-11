@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\creditosapi\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|c:\\users\\molin\\onedrive\\csharp\\proyectos\\prueba_tecnica\\creditosapi\\creditosapi\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|solutionrelative:creditosapi\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E44EAF4-F274-4EE5-BD4E-470A32D0B213}|Sistema-Creditos.Model\\Sistema-Creditos.Model.csproj|c:\\users\\molin\\onedrive\\csharp\\proyectos\\prueba_tecnica\\creditosapi\\sistema-creditos.model\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E44EAF4-F274-4EE5-BD4E-470A32D0B213}|Sistema-Creditos.Model\\Sistema-Creditos.Model.csproj|solutionrelative:sistema-creditos.model\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\creditosapi\\dto\\operacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|solutionrelative:creditosapi\\dto\\operacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\creditosapi\\dto\\operacionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|solutionrelative:creditosapi\\dto\\operacionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\creditosapi\\services\\operacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|solutionrelative:creditosapi\\services\\operacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\creditosapi\\dto\\operacionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD7777F8-6459-457F-BF20-C9715D7B000D}|CreditosAPI\\CreditosAPI.csproj|solutionrelative:creditosapi\\dto\\operacionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E44EAF4-F274-4EE5-BD4E-470A32D0B213}|Sistema-Creditos.Model\\Sistema-Creditos.Model.csproj|C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\sistema-creditos.model\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E44EAF4-F274-4EE5-BD4E-470A32D0B213}|Sistema-Creditos.Model\\Sistema-Creditos.Model.csproj|solutionrelative:sistema-creditos.model\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,14 @@
               "RelativeDocumentMoniker": "CreditosAPI\\Services\\OperacionService.cs",
               "ToolTip": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\CreditosAPI\\Services\\OperacionService.cs",
               "RelativeToolTip": "CreditosAPI\\Services\\OperacionService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwCYAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T03:25:26.381Z"
+              "WhenOpened": "2024-12-11T03:25:26.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OperacionUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\CreditosAPI\\DTO\\OperacionUpdateDTO.cs",
               "RelativeDocumentMoniker": "CreditosAPI\\DTO\\OperacionUpdateDTO.cs",
@@ -54,29 +55,31 @@
               "RelativeToolTip": "CreditosAPI\\DTO\\OperacionUpdateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T03:14:03.966Z"
+              "WhenOpened": "2024-12-11T03:14:03.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OperacionesDTO.cs",
               "DocumentMoniker": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\CreditosAPI\\DTO\\OperacionesDTO.cs",
               "RelativeDocumentMoniker": "CreditosAPI\\DTO\\OperacionesDTO.cs",
               "ToolTip": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\CreditosAPI\\DTO\\OperacionesDTO.cs",
               "RelativeToolTip": "CreditosAPI\\DTO\\OperacionesDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:42:10.07Z"
+              "WhenOpened": "2024-12-11T02:42:10.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Operaciones.cs",
               "DocumentMoniker": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\Sistema-Creditos.Model\\Models\\Operaciones.cs",
               "RelativeDocumentMoniker": "Sistema-Creditos.Model\\Models\\Operaciones.cs",
               "ToolTip": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\Sistema-Creditos.Model\\Models\\Operaciones.cs",
               "RelativeToolTip": "Sistema-Creditos.Model\\Models\\Operaciones.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA/wBgAAAAdAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T02:40:43.665Z",
               "EditorCaption": ""
@@ -89,7 +92,7 @@
               "RelativeDocumentMoniker": "CreditosAPI\\Controllers\\OperacionesController.cs",
               "ToolTip": "C:\\Users\\molin\\OneDrive\\Csharp\\PROYECTOS\\Prueba_Tecnica\\CreditosAPI\\CreditosAPI\\Controllers\\OperacionesController.cs",
               "RelativeToolTip": "CreditosAPI\\Controllers\\OperacionesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwGcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T02:36:06.072Z",
               "EditorCaption": ""
