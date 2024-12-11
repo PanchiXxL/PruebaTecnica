@@ -1,0 +1,14 @@
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\bin\Debug\net8.0\Sistema-Creditos.Model.deps.json
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\bin\Debug\net8.0\Sistema-Creditos.Model.runtimeconfig.json
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\bin\Debug\net8.0\Sistema-Creditos.Model.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\bin\Debug\net8.0\Sistema-Creditos.Model.pdb
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.csproj.AssemblyReference.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.AssemblyInfoInputs.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.AssemblyInfo.cs
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.csproj.CoreCompileInputs.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\refint\Sistema-Creditos.Model.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.pdb
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\Sistema-Creditos.Model.genruntimeconfig.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistema-Creditos.Model\obj\Debug\net8.0\ref\Sistema-Creditos.Model.dll

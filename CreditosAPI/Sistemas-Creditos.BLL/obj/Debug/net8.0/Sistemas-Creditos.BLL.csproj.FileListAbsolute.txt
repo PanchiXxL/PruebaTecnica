@@ -1,0 +1,15 @@
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\bin\Debug\net8.0\Sistemas-Creditos.BLL.deps.json
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\bin\Debug\net8.0\Sistemas-Creditos.BLL.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\bin\Debug\net8.0\Sistemas-Creditos.BLL.pdb
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\bin\Debug\net8.0\Sistema-Creditos.Model.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\bin\Debug\net8.0\Sistema-Creditos.Model.pdb
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.csproj.AssemblyReference.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.AssemblyInfoInputs.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.AssemblyInfo.cs
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas.37562588.Up2Date
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\refint\Sistemas-Creditos.BLL.dll
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\Sistemas-Creditos.BLL.pdb
+C:\Users\molin\OneDrive\Csharp\PROYECTOS\Prueba_Tecnica\CreditosAPI\Sistemas-Creditos.BLL\obj\Debug\net8.0\ref\Sistemas-Creditos.BLL.dll
